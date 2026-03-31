@@ -420,7 +420,6 @@ amplifier-collection-toolkit,Python,Reference implementation of a toolkit collec
 amplifier-collections,Python,Reference implementation of a collection's library for the Amplifier project
 amplifier-config,Python,Reference implementation for a config library for the Amplifier project
 amplifier-core,Rust,
-amplifier-dashboard-attractor,,Real-time pipeline monitoring dashboard for Attractor pipeline orchestration
 amplifier-distro,Python,Amplifier experiences
 amplifier-docs,Python,Documentation for the Amplifier project
 amplifier-foundation,Python,Foundation library for the Amplifier project
@@ -676,6 +675,7 @@ ASL-STEM-Wiki,Python,Code for the ASL STEM Wiki baselines
 aspire,C#,"Aspire is the tool for code-first, extensible, observable dev and deploy."
 aspire-brand,,"Brand assets for Aspire: Including slides, logos, icons, colors, guides, etc."
 aspire-devcontainer,,
+aspire-devcontainer-feature,Shell,
 aspire-devcontainer-nightly,Dockerfile,GitHub template repository pre-configured with Devcontainer for .NET Aspire development.
 aspire-samples,C#,
 aspire.dev,MDX,The official website for all things aspire.dev.
